@@ -86,13 +86,13 @@ The model predicts the likely product type, such as:
 Create a Conda virtual environment:
 
 ```bash
-conda create --name dsadeploymlp1 python=3.13
+conda create --name logistica python=3.13
 ```
 
 Activate the environment:
 
 ```bash
-conda activate dsadeploymlp1
+conda activate logistica
 ```
 
 Install `pip` and the project dependencies:

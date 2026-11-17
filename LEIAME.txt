@@ -2,11 +2,11 @@
 
 # Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e execute o comando abaixo para criar um ambiente virtual:
 
-conda create --name dsadeploymlp1 python=3.13
+conda create --name logistica python=3.13
 
 # Ative o ambiente:
 
-conda activate dsadeploymlp1 (ou: source activate dsadeploymlp1)
+conda activate logistica (ou: source activate logistica)
 
 # Instale o pip e as dependências:
 
@@ -21,7 +21,7 @@ python p1_deploy.py
 # Use os comandos abaixo para desativar o ambiente virtual e remover o ambiente (opcional):
 
 conda deactivate
-conda remove --name dsadeploymlp1 --all
+conda remove --name logistica --all
 
 
 
